@@ -1,0 +1,19 @@
+{
+  "name": "test2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "anychart-react": "^1.2.0",
+    "lodash.debounce": "^4.0.8",
+    "moviedb": "^0.2.8",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "homepage": "http://leonardoteubal.com/Movie-Search"
+}
